@@ -1,7 +1,5 @@
 import React from 'react';
 
-import './awesome.component.scss';
-
 class AwesomeComponent extends React.Component {
 
   constructor(props) {
